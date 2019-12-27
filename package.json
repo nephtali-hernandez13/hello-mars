@@ -1,6 +1,6 @@
 {
   "name": "hello-mars-x1347",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Say hello to Mars!",
   "main": "index.js",
   "scripts": {
